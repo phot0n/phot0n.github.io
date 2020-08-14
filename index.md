@@ -19,5 +19,5 @@ View/Download my resume [here](/resume).
 &nbsp;
 Run this to see in your terminal ;)
 ```
-      curl -s {{site.url}}/website/assets/site.sh | sh
+      curl -s {{site.url}}/assets/site.sh | sh
 ```
