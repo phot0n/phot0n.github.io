@@ -1,4 +1,4 @@
-URL = phot0n.github.io
+URL = phot0n.github.io/website
 
 cat << EOF
 + _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ +
