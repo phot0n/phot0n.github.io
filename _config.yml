@@ -7,7 +7,7 @@ exclude:
   - Gemfile.lock
 author: Ritwik Puri
 url: phot0n.github.io
-baseurl: /website
+baseurl: /website   # your repo name
 plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from

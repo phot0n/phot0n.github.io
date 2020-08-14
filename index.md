@@ -15,9 +15,9 @@ I love building/making things.
 Currently developing my problem solving skills and 
                         involved in the development of [Pitivi](http://http://www.pitivi.org/).
 &nbsp;
-View/Download my resume [here]({{site.url}}/resume).
+View/Download my resume [here](/resume).
 &nbsp;
 Run this to see in your terminal ;)
 ```
-      curl -s {{site.url}}/assets/site.sh | sh
+      curl -s {{site.url}}/website/assets/site.sh | sh
 ```

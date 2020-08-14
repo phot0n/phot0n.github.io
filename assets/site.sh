@@ -1,12 +1,10 @@
-URL = phot0n.github.io/website
-
 cat << EOF
 + _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ +
                                                                                 |
 Ritwik Puri                                                                     |
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |
                                                                                 |
-Hey there,                                                       |
+Hey there,                                                                      |
       Welcome to my space :)                                                    |
                                                                                 |
 I'm currently a final year student at Bennett.                                  |
