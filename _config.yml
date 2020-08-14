@@ -1,0 +1,16 @@
+remote_theme: b2a3e8/jekyll-theme-console
+title: 'Ritwik Puri'
+exclude:
+  - README.txt
+  - Gemfile
+  - Gemfile.lock
+author: Ritwik Puri
+plugins:
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+header_pages:
+  - index.md
+  - posts.md
+  - resume.md
+style: light
+footer: '<a href="https://twitter.com/phot0n_">Twitter</a> <a href="https://github.com/phot0n">Github</a> <a href="https://linkedin.com/in/ritwik-p-130249183/">LinkedIn</a>'
