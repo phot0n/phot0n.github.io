@@ -6,6 +6,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
 author: Ritwik Puri
+url: phot0n.github.io
+baseurl: /website
 plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
