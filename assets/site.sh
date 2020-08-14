@@ -1,3 +1,5 @@
+#!/bin/bash
+
 URL=www.phot0n.github.io
 cat << EOF
 + _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ +
