@@ -5,15 +5,15 @@ layout: default
 ---
 
 Hey there, I'm Ritwik.
-      Welcome to my space. 
-      Feel free to hang and check things around :)
+            Welcome to my space. 
+            Feel free to hang and check things around :)
 &nbsp;
 I'm currently a final year student at [Bennett](https://www.bennett.edu.in/).
 &nbsp;
 I love building/making things.
 &nbsp;
 Currently developing my problem solving skills and 
-                        involved in the development of [Pitivi](http://www.pitivi.org/).
+                  involved in the development of [Pitivi](http://www.pitivi.org/).
 <br>
 View/Download my resume [here](/resume).
 &nbsp;

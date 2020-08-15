@@ -8,7 +8,6 @@ exclude:
 author: Ritwik Puri
 url: phot0n.github.io
 plugins:
-  - jekyll-seo-tag
   - jekyll-redirect-from
 header_pages:
   - index.md
