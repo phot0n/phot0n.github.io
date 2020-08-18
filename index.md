@@ -4,9 +4,11 @@ permalink: /
 layout: default
 ---
 
+<center><img src="/assets/potatohead.jpg" width="300"/></center>
+
 Hey there, I'm Ritwik.
-        Welcome to my space. 
-            Feel free to hang and check things around :)
+    Welcome to my space. 
+        Feel free to hang and check things around :)
 &nbsp;
 I'm currently a final year student at [Bennett](https://www.bennett.edu.in/).
 &nbsp;
@@ -18,5 +20,5 @@ Currently developing my problem solving skills and
 View/Download my resume [here](/resume).
 &nbsp;
 Have something interesting to talk about? 
-                            Reach out to me [here](mailto:ritwikpuri5678@gmail.com)
+                            Reach out to me [here](mailto:ritwikpuri5678@gmail.com).
 &nbsp;
