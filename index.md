@@ -15,9 +15,9 @@ I'm currently a final year student at [Bennett](https://www.bennett.edu.in/).
 I love building/making things.
 &nbsp;
 Currently developing my problem solving skills and 
-                involved in the development of [Pitivi](http://www.pitivi.org/).
+              involved in the development of [Pitivi](http://www.pitivi.org/).
 &nbsp;
-View/Download my resume [here](/resume).
+View/Download my resume <a href="/assets/Resume.pdf">here</a>.
 &nbsp;
 Have something interesting to talk about? 
                             Reach out to me [here](mailto:ritwikpuri5678@gmail.com).
