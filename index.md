@@ -17,7 +17,7 @@ I love building/making things.
 Currently developing my problem solving skills and 
               involved in the development of [Pitivi](http://www.pitivi.org/).
 &nbsp;
-View/Download my resume <a href="/assets/Resume.pdf">here</a>.
+View/Download my resume [here](/assets/Resume.pdf).
 &nbsp;
 Have something interesting to talk about? 
                             Reach out to me [here](mailto:ritwikpuri5678@gmail.com).
