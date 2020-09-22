@@ -4,7 +4,7 @@ permalink: /
 layout: default
 ---
 
-<center><img src="/assets/potatohead.jpg" width="300"/></center>
+<center><img src="/assets/potatohead-min.jpg" width="300"/></center>
 
 Hey there, I'm Ritwik.
     Welcome to my space. 
