@@ -1,5 +1,6 @@
 ---
 title: /resume
+permalink: /resume
 ---
 
 <div style="text-align: right">
