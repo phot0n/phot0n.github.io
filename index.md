@@ -7,17 +7,16 @@ layout: default
 <center><img src="/assets/potatohead-min.jpg" width="300"/></center>
 
 Hey there, I'm Ritwik.
-    Welcome to my space. 
-        Feel free to hang and check things around :)
+  Welcome to my space.
+    Feel free to hang and check things around :)
 &nbsp;
-I'm currently a final year student at [Bennett](https://www.bennett.edu.in/).
+I'm currently a final year undergraduate at [Bennett](https://www.bennett.edu.in/).
 &nbsp;
-I love building/making things.
+I like to build/make things.
 &nbsp;
-Currently developing my problem solving skills and 
-              involved in the development of [Pitivi](http://www.pitivi.org/).
+Currently developing my problem solving skills.
 &nbsp;
-View/Download my resume [here](/resume)
+View/Download my resume [here](/resume).
 &nbsp;
 Have something interesting to talk about? 
                             Reach out to me [here](mailto:ritwikpuri5678@gmail.com).
