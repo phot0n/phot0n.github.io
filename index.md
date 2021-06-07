@@ -10,14 +10,10 @@ Hey there, I'm Ritwik.
   Welcome to my space.
     Feel free to hang and check things around :)
 &nbsp;
-I'm currently a final year undergraduate at [Bennett](https://www.bennett.edu.in/).
-&nbsp;
-I like to build/make things.
-&nbsp;
-Currently developing my problem solving skills.
+I like to build/make things and am currently developing my problem solving skills.
 &nbsp;
 Have something interesting to talk about? 
-                            Reach out to me [here](mailto:ritwikpuri5678@gmail.com).
+                        Reach out to me [here](mailto:ritwikpuri5678@gmail.com).
 &nbsp;
-You can also View/Download my resume [here](/resume) if you want ;)
+You can also View/Download my [resume](/resume) if you want ;)
 &nbsp;
