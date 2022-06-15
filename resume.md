@@ -7,7 +7,7 @@ permalink: /resume
     <a href="/assets/Resume.pdf">Fullscreen</a>
 </div>
 
-<object width="100%" height="700" type="application/pdf" 
+<object width="100%" height="700" type="application/pdf"
                             data="/assets/Resume.pdf?#zoom=69&scrollbar=0&toolbar=0navpanes=0">
     <br>
     <p>Sorry!! Your browser doesn't support the required plugin to disply this embed.</p>
