@@ -11,5 +11,5 @@ header_pages:
   - index.md
   - posts.md
   - resume.md
-style: light
+style: dark
 footer: '<a href="https://open.spotify.com/user/22hyjf7hfrp4wteupbcu3dzty?si=f19d857690cf4e5c">Spotify</a> <a href="https://twitter.com/phot0n_">Twitter</a> <a href="https://github.com/phot0n">Github</a> <a href="https://linkedin.com/in/ritwik-p-130249183/">LinkedIn</a>'

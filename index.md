@@ -4,7 +4,8 @@ permalink: /
 layout: default
 ---
 
-<center><img src="/assets/profile.jpg" width="300"/></center>
+<center><img src="/assets/profile.png" width="300"/></center>
+
 
 Hey there, I'm Ritwik.
   Welcome to my space.
