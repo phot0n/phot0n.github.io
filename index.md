@@ -11,7 +11,7 @@ Hey there, I'm Ritwik.
   Welcome to my space.
     Feel free to hang and check things around :)
 &nbsp;
-I like to build/make things and am currently working at [frappe](https://frappe.io/) as a (software) developer.
+I like to build/make things and solve interesting problems (currenlty diving into devops and systems stuff).
 &nbsp;
 Have something interesting to talk about?
                         Reach out to me [here](mailto:ritwikpuri5678@gmail.com).
