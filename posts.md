@@ -6,10 +6,12 @@ layout: default
 
 Just a place to writeout my thoughts, new learnings ,etc  :)
 
+{% comment %} refer: https://jekyllrb.com/docs/posts {% endcomment %}
+
 <br>
 
 <ul>
-  {% if site.posts %}
+  {% if site.posts.size != 0 %}
     {% for post in site.posts %}
       <li>
           {%- assign date_format = "%Y-%m-%d" -%}
