@@ -17,4 +17,5 @@ Have something interesting to talk about?
                         Reach out to me [here](mailto:ritwikpuri5678@gmail.com).
 &nbsp;
 You can also View/Download my [resume](/resume) if you want ;)
+
 &nbsp;
